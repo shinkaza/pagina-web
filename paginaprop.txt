@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>mi hoja de vida></title>
+<body bgcolor= ffffff>
+body background="back-ground.jifif"
+</body>
+
+</head>
+</html>
